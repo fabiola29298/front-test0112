@@ -1,8 +1,8 @@
-import React from "react";
+import React from 'react';
 
 const Header = function ({ children }) {
   return (
-    <div className="header-container">
+    <div className='header-container'>
       {children}
     </div>
   );
